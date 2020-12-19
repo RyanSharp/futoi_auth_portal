@@ -1,0 +1,3 @@
+httplib2
+futoi-exceptions==0.0.1
+futoi-lambda-api==0.0.2
